@@ -85,4 +85,4 @@ function generateLessonName($topic)
   return $language . ": " . $topic;
 }
 
-echo generateLessonName($topic);
+//echo generateLessonName($topic);
