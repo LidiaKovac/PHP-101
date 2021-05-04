@@ -27,3 +27,4 @@ rand(1,6); #exp: a random num between 1 and 6
 $input = "Alien";
 str_pad($input, 10, "-=", STR_PAD_LEFT); #exp "-=-=-Alien"  PLEASE NOTE: the second parameter is the final number of chars to give to the string
 strtoupper($input) . "!"; #exp: ALIEN!
+pi(); #gets the value of pi
